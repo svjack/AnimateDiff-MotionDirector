@@ -25,6 +25,10 @@ At the moment, there are no plans for SDXL as it's still in early stages, but is
 ### Setup repository and conda environment
 
 ```
+sudo apt-get update && sudo apt-get install cbm git-lfs ffmpeg
+```
+
+```
 git clone https://github.com/svjack/AnimateDiff-MotionDirector
 cd AnimateDiff-MotionDirector
 
