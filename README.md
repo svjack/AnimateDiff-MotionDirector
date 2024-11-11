@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 git lfs install
 rm -rf models/StableDiffusion 
-git clone https://huggingface.co/runwayml/stable-diffusion-v1-5 models/StableDiffusion/
+git clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5 models/StableDiffusion/
 ```
 
 ### Download V3 Motion Module
