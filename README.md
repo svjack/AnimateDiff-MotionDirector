@@ -49,7 +49,8 @@ git clone https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5 mod
 ### Download V3 Motion Module
 ```
 git lfs install
-https://huggingface.co/guoyww/animatediff/blob/main/v3_sd15_mm.ckpt
+### https://huggingface.co/guoyww/animatediff/blob/main/v3_sd15_mm.ckpt
+wget https://cdn-lfs.hf.co/repos/80/a9/80a9efd8e3732d097f2777edd953760ce288e2370fb8a8bb4803c0f8f29dca40/2412711886f61091846f53204aabc38aa6e09356d62a9808abe4daa802168343\?response-content-disposition\=inline%3B+filename\*%3DUTF-8%27%27v3_sd15_mm.ckpt%3B+filename%3D%22v3_sd15_mm.ckpt%22%3B\&Expires\=1731587372\&Policy\=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMTU4NzM3Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy84MC9hOS84MGE5ZWZkOGUzNzMyZDA5N2YyNzc3ZWRkOTUzNzYwY2UyODhlMjM3MGZiOGE4YmI0ODAzYzBmOGYyOWRjYTQwLzI0MTI3MTE4ODZmNjEwOTE4NDZmNTMyMDRhYWJjMzhhYTZlMDkzNTZkNjJhOTgwOGFiZTRkYWE4MDIxNjgzNDM%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__\&Signature\=SZ8r-gNrfERLpk7UBRsku1vF%7EU5atjPQ6-50XId8EkeXMSnTRaJZmhKdF7KKze22Ncced9LzO7n-V7Ol2YqGLnn%7E3k7wkceVL2LeoFWJAg8fbeYMifGYu4pX6qjxV1AwUouHDoLDtDcDLIH4InRayROXMnEpjO57m3hQlXqgKrGcH%7EZ3-0sY4EiSYXERbLm04OF0Fj02OJKc8a0aZh3y5ycm86m1yQz-6fQKQC-M1hEP8jDd-cEd8wyncmsUVQu5-MpGLzLiM1rsDn9dyySYlruB8nfsqRnBcmhNEcT%7EyC5n5OMgPaze6AMgOhj1i1r1YP1ubNCuTEKhD6n2x0vo5w__\&Key-Pair-Id\=K3RPWS32NSSJCE -O models/Motion_Module/v3_sd15_mm.ckpt
 ```
 
 ## Training Instuctions
