@@ -42,6 +42,7 @@ pip install -r requirements.txt
 
 ```
 git lfs install
+rm -rf models/StableDiffusion 
 git clone https://huggingface.co/runwayml/stable-diffusion-v1-5 models/StableDiffusion/
 ```
 
