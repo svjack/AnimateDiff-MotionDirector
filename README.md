@@ -25,7 +25,7 @@ At the moment, there are no plans for SDXL as it's still in early stages, but is
 ### Setup repository and conda environment
 
 ```
-git clone https://github.com/ExponentialML/AnimateDiff-MotionDirector
+git clone https://github.com/svjack/AnimateDiff-MotionDirector
 cd AnimateDiff-MotionDirector
 
 conda env create -f environment.yaml
