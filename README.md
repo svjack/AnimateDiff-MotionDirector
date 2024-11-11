@@ -63,7 +63,7 @@ To setup training, open the `my_video.yaml` in a text editor. There, every line 
 
 To run, simply execute the following code.
 
-`python train.py --config ./configs/training/motion_director/my_video.yaml`
+`python train.py --config ./configs/training/motion_director/my_video_edit.yaml`
 
 By default, results will be saved in `outputs`. 
 
