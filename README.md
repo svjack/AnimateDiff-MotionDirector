@@ -92,7 +92,7 @@ Intended for developers, researchers, or those who are familiar with finetuning 
 There, you can tweak the learning rate, video datasets, and so on as you see fit.
 For more information on dataset handling in code, refer to `./animatediff/utils/dataset.py`.
 
-## Inference
+## Inference (Located in https://github.com/svjack/comfyui-animatediff)
 
 After training, the LoRAs are intended to be used with the ComfyUI Extension [ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved).
 
